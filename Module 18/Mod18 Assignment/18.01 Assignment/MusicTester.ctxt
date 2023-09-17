@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MusicTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MusicTester\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m
+comment2.target=void\ printMusic(Music[])
+comment3.params=m\ toFind
+comment3.target=void\ searchTitle(Music[],\ java.lang.String)
+comment4.params=m\ toFind
+comment4.target=void\ searchYear(Music[],\ int)
+comment5.params=m\ toFind
+comment5.target=void\ searchArtist(Music[],\ java.lang.String)
+numComments=6

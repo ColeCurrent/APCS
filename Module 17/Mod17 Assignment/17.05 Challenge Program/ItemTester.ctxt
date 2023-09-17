@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ItemTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ItemTester\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=inventory
+comment2.target=void\ printInventory(Item[])
+comment3.params=source\ order
+comment3.target=Item[]\ sortID(Item[],\ int)
+comment4.params=source\ order
+comment4.target=Item[]\ sortName(Item[],\ int)
+comment5.params=source\ order
+comment5.target=void\ sortInStore(Item[],\ int)
+comment6.params=movies\ low\ high
+comment6.target=void\ sortPrice(Item[],\ int,\ int)
+comment7.params=a\ low\ mid\ high
+comment7.target=void\ mergePrice(Item[],\ int,\ int,\ int)
+numComments=8

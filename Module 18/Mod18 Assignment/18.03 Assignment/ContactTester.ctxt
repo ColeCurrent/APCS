@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ContactTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ContactTester\ here.\r\n\r\n\ @author\ Cole\ Current\r\n\ @version\ 5/18/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=c\ low\ mid\ high
+comment10.target=void\ mergeEmail(Contact[],\ int,\ int,\ int)
+comment11.params=c\ toFind\ l\ h
+comment11.target=void\ findByEmail(Contact[],\ java.lang.String,\ int,\ int)
+comment2.params=c
+comment2.target=void\ printContacts(Contact[])
+comment3.params=c\ low\ high
+comment3.target=void\ mergeSortName(Contact[],\ int,\ int)
+comment4.params=c\ low\ mid\ high
+comment4.target=void\ mergeName(Contact[],\ int,\ int,\ int)
+comment5.params=c\ toFind\ l\ h
+comment5.target=void\ findByName(Contact[],\ java.lang.String,\ int,\ int)
+comment6.params=c\ toFind
+comment6.target=void\ findByRelation(Contact[],\ java.lang.String)
+comment7.params=c\ toFind
+comment7.target=void\ findByPhone(Contact[],\ java.lang.String)
+comment8.params=c\ toFind
+comment8.target=void\ findByBMonth(Contact[],\ java.lang.String)
+comment9.params=c\ low\ high
+comment9.target=void\ mergeSortEmail(Contact[],\ int,\ int)
+numComments=12

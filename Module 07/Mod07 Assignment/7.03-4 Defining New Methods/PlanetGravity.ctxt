@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PlanetGravity
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PlanetGravity\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mass\ diameter
+comment1.target=double[]\ surfaceGravity(double[],\ double[])
+comment2.params=
+comment2.target=java.lang.String[]\ planetNames()
+comment3.params=
+comment3.target=double[]\ planetDiameter()
+comment4.params=
+comment4.target=double[]\ planetMass()
+comment5.params=planetNames\ planetDiameter\ planetMass\ surfaceGravity
+comment5.target=void\ output(java.lang.String[],\ double[],\ double[],\ double[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

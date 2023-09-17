@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentInformationCard
+comment0.text=\r\n\ A\ description\ of\ my\ student\ information\ such\ as\ contact\ information,\ hours\ available,\ and\ my\ math\ courses.\r\n\r\n\ @author\ Cole\ Current\r\n\ @version\ 9/20/19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

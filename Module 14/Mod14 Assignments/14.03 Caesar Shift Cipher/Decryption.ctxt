@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Decryption
+comment0.text=\r\n\ This\ class\ decrypts\ a\ message\ given\ from\ the\ user\ in\ the\ CeasarTester\ class\r\n\r\n\ @author\ Cole\ Current\r\n\ @version\ 5/5/2020\r\n
+comment1.params=
+comment1.target=void\ setupAlphabet()
+comment2.params=s\ m
+comment2.target=Decryption(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ decryptMessage()
+comment4.params=
+comment4.target=int\ getShift()
+comment5.params=
+comment5.target=void\ printDecryptedMessage()
+numComments=6

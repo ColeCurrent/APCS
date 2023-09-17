@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Calculus
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Homework\ here.\r\n\r\n\ @author\ Cole\ Current\r\n\ @version\ 5/12/2020\r\n
+comment1.params=
+comment1.target=Calculus()
+comment2.params=pagesRead
+comment2.target=void\ setPagesRead(int)
+comment3.params=homework
+comment3.target=void\ setHomework(java.lang.String)
+comment4.params=
+comment4.target=int\ getPagesRead()
+comment5.params=
+comment5.target=java.lang.String\ getHomework()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
